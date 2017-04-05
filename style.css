@@ -1,0 +1,16 @@
+body {
+  background: #F09819; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #F09819 , #EDDE5D); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #F09819 , #EDDE5D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-size: cover;
+  padding-top: 25vh
+}
+
+ul li {
+  list-style: none;
+  height: 10x;
+  background-color: red;
+  margin-top: 15px;
+  text-align: center;
+  transition: all .5s ease
+}
